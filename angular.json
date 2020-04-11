@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "src/custom-theme.scss",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-bsgonline"
+    }
+  },
+  "defaultProject": "ng-bsgonline",
+  "cli": {
+    "analytics": "f2078110-5564-4b29-b04c-56bb6a925f51"
+  }
 }
